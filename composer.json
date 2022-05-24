@@ -31,7 +31,7 @@
         "sort-packages": true,
         "allow-plugins": {
             "third-party/required-plugin": true,
-        },
+        }
     },
     "extra": {
         "laravel": {
